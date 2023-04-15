@@ -1,0 +1,15 @@
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+  font-family: 'Roboto';
+}
+.about-image {
+  width: 200px;
+}
+
+.about-head {
+  color: #12022f;
+}

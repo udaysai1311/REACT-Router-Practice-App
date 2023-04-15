@@ -1,0 +1,15 @@
+.nf-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+  font-family: 'Roboto';
+}
+.nf-image {
+  width: 400px;
+}
+.nf-head {
+  color: #12022f;
+  font-size: 40px;
+}

@@ -1,0 +1,30 @@
+.header-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+.nav-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style-type: none;
+  gap: 20px;
+  font-weight: 500;
+}
+.wave-image {
+  width: 30px;
+  height: 30px;
+}
+.logo-head {
+  color: #551e53;
+  font-size: 30px;
+  margin-top: 0;
+}
+.link-dec {
+  text-decoration: none;
+}
